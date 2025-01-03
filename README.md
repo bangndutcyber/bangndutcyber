@@ -1,4 +1,8 @@
 ## Hi there 👋
+## welcome to cyber willie 
+## apt update && apt upgrade
+
+
 
 <!--
 **bangndutcyber/bangndutcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
