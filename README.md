@@ -1,6 +1,9 @@
 ## Hi there 👋
 ## welcome to cyber willie 
 ## apt update && apt upgrade
+config.js
+jonson.rd
+
 
 
 
